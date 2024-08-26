@@ -1,6 +1,6 @@
 # Testing-theory
 
-## Задача 1 - 1.txt / [Google_doc](https://docs.google.com/document/d/1sHq85L3Nf0_1ZH4E949qbUZp3k4NDyTj2U0mvcAz1Fs/edit?usp=sharing)
+## Задача 1 - 1.txt / <a href="https://docs.google.com/document/d/1sHq85L3Nf0_1ZH4E949qbUZp3k4NDyTj2U0mvcAz1Fs/edit?usp=sharing" style="text-decoration: none"> Google_doc </a>
 - [ ] Что такое тестирование программного обеспечения?
 - [ ] Что такое качество программного обеспечения?
 - [ ] Когда начинать и заканчивать тестирование?
