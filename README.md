@@ -1,6 +1,6 @@
 # Testing-theory
 
-## Задача 1 - 1.txt / [Google_doc](https://docs.google.com/document/d/1sHq85L3Nf0_1ZH4E949qbUZp3k4NDyTj2U0mvcAz1Fs/edit#heading=h.ip9xaxjq52h){:target="_blank"}
+## Задача 1 - 1.txt / <a href="https://docs.google.com/document/d/1sHq85L3Nf0_1ZH4E949qbUZp3k4NDyTj2U0mvcAz1Fs/edit?usp=sharing" style="text-decoration: none;"> Google_doc </a>
 - [x] Что такое тестирование программного обеспечения
 - [x] Цели тестирования программного обеспечения
 - [x] Когда начинать и заканчивать тестирование
@@ -13,7 +13,7 @@
 - [x] Что такое верификация?
 - [x] Что такое валидация?
 
-## Задача 2 - 2.txt / [Google_doc](URL){:target="_blank"}
+## Задача 2 - 2.txt / [Google_doc](URL)
 - [ ] Что такое проект
 - [ ] Waterfall model/Каскадная модель
 - [ ] Преимущества и недостатки Waterfall model/Каскадной модели
@@ -35,7 +35,7 @@
 - [ ] Что такое SDLS? Из каких этапов состоит? Что происходит на каждом этапе?
 - [ ] Что такое STLS? Из каких этапов состоит? Что происходит на каждом этапе?
 
-## Задача 3 - 3.txt / [Google_doc](URL){:target="_blank"}
+## Задача 3 - 3.txt / [Google_doc](URL)
 - [ ] Что такое функциональное тестирование (Functional/Behavioral testing)?
 - [ ] Что такое нефункциональное тестирование (Non-Functional testing)?
 - [ ] Какие виды тестирования относятся к функциональному тестированию?
