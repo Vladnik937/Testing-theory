@@ -14,7 +14,7 @@
 - [x] Что такое валидация?
 
 ## Задача 2 - 2.txt / <a href="https://docs.google.com/document/d/1uJgjVPJbVY1HG04Cl89TrnkTaKRNTEr5Hu0095jb7Eg/edit#heading=h.uwm7g7vm9kn" style="text-decoration: none;"> Google_doc (Задание_2) </a>
-- [ ] Что такое проект
+- [x] Что такое проект
 - [ ] Waterfall model/Каскадная модель
 - [ ] Преимущества и недостатки Waterfall model/Каскадной модели
 - [ ] V-model/V- модель
