@@ -1,6 +1,6 @@
 # Testing-theory
 
-## Задача 1 - 1.txt / <a href="https://docs.google.com/document/d/1sHq85L3Nf0_1ZH4E949qbUZp3k4NDyTj2U0mvcAz1Fs/edit?usp=sharing" style="text-decoration: none;"> Google_doc </a>
+## Задача 1 - 1.txt / <a href="https://docs.google.com/document/d/1sHq85L3Nf0_1ZH4E949qbUZp3k4NDyTj2U0mvcAz1Fs/edit?usp=sharing" style="text-decoration: none;"> Google_doc (Задание_1) </a>
 - [x] Что такое тестирование программного обеспечения
 - [x] Цели тестирования программного обеспечения
 - [x] Когда начинать и заканчивать тестирование
@@ -13,7 +13,7 @@
 - [x] Что такое верификация?
 - [x] Что такое валидация?
 
-## Задача 2 - 2.txt / [Google_doc](URL)
+## Задача 2 - 2.txt / <a href="https://docs.google.com/document/d/1uJgjVPJbVY1HG04Cl89TrnkTaKRNTEr5Hu0095jb7Eg/edit#heading=h.uwm7g7vm9kn" style="text-decoration: none;"> Google_doc (Задание_2) </a>
 - [ ] Что такое проект
 - [ ] Waterfall model/Каскадная модель
 - [ ] Преимущества и недостатки Waterfall model/Каскадной модели
