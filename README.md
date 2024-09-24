@@ -10,8 +10,12 @@
 - [x] Quality Assurance
 - [x] Quality Control
 - [x] Tester / Testing
-- [x] Что такое верификация?
-- [x] Что такое валидация?
+- [x] Что такое верификация
+- [x] Что такое валидация
+- [ ] Что такое приемка приложения
+- [ ] Что такое аудит приложения и его этапы
+- [ ] Чем приемка приложения отличается от аудита
+- [ ] Типы метрик тестирования. Цели и примеры.
 
 ## Задача 2 - 2.txt / <a href="https://docs.google.com/document/d/1uJgjVPJbVY1HG04Cl89TrnkTaKRNTEr5Hu0095jb7Eg/edit#heading=h.uwm7g7vm9kn" style="text-decoration: none;"> Google_doc (Задание_2) </a>
 - [x] Что такое проект
